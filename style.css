@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2? family= Open+Sans & display=swap');
+
+body{
+  margin-top: 5pc;
+  background-color: #B2B2B2;
+}
+
+.container {
+  text-align: center;
+  line-height: 0.3;
+}
+
+h1{
+  color: #50577A;
+  font-size: 30px;
+  text-align: center;
+  margin-left: -42%;
+  margin-bottom: -5px;
+}
+
+.container input {
+  background-color: #678983;
+  color: #F3EFE0;
+  font-size: 2vh;
+  border-radius: 5px;
+  border-style: inherit;
+  width: 50%;
+  height: 3vh;
+  outline: none;
+  outline-color: none;
+  margin-top: 10px;;
+}
+
+.container button{
+  font-size: 20px;
+  background-color: #F3EFE0;
+  color: #434242;
+  border-radius: 50%;
+  border-style: inherit;
+  outline: none;
+  outline-color: none;
+}
